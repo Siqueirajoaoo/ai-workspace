@@ -1,7 +1,7 @@
-:HL["/ai-workspace/_next/static/chunks/01mb3x5q4c1kz.css","style"]
+:HL["/ai-workspace/_next/static/chunks/3l_7e-w4wrsbv.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"module","t":"d","k":"teams","s":["settings"]},"h":65600,"c":"$Q4"}]]
 2:[["children",{"s":"app","h":131104,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"pt-BR","s":[]},"h":196720,"c":"$Q2"}]]
-0:{"b":"C3hIAbYL-TYd0cxpFTS4S","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"dVg0j3GFd-36FtFn3d44V","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

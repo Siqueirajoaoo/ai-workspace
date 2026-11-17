@@ -2,34 +2,36 @@
 5:"/ai-workspace/_next/static/chunks/3qfy96eoyh-ek.js"
 6:I[39756,["$5"],"default"]
 7:I[37457,["$5"],"default"]
-c:"/ai-workspace/_next/static/chunks/3wlthmpltod24.js"
+c:"/ai-workspace/_next/static/chunks/12o8jzj1sgpwh.js"
 d:"/ai-workspace/_next/static/chunks/3inysa9mt77ex.js"
 e:"/ai-workspace/_next/static/chunks/271szmz5-rwzl.js"
-f:"/ai-workspace/_next/static/chunks/0wgq0mtw9scvy.js"
-10:"/ai-workspace/_next/static/chunks/0-famimigyugx.js"
-11:"/ai-workspace/_next/static/chunks/0zmr33l_cz135.js"
-12:"/ai-workspace/_next/static/chunks/2f49r035st-8y.js"
-13:"/ai-workspace/_next/static/chunks/31lpcwmm1s-mu.js"
-14:I[98571,["$c","$d","$e","$f","$10","$11","$12","$13"],"BackToDashboard"]
-15:I[97367,["$5"],"OutletBoundary"]
-16:"$Sreact.suspense"
-19:"ViewportBoundary"
-1a:I[97367,["$5"],"$19"]
-1b:"MetadataBoundary"
+f:"/ai-workspace/_next/static/chunks/0lgz5a7j4l7pa.js"
+10:"/ai-workspace/_next/static/chunks/00jot-h3hurj_.js"
+11:"/ai-workspace/_next/static/chunks/22d3pda-_k-h8.js"
+12:"/ai-workspace/_next/static/chunks/0g5iflzjprm1x.js"
+13:"/ai-workspace/_next/static/chunks/02pluzoibts7-.js"
+14:"/ai-workspace/_next/static/chunks/0x9r9_-qa18uj.js"
+15:"/ai-workspace/_next/static/chunks/35qgi487wg5ew.js"
+16:I[98571,["$c","$d","$e","$f","$10","$11","$12","$13","$14","$15"],"BackToDashboard"]
+17:I[97367,["$5"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:"ViewportBoundary"
 1c:I[97367,["$5"],"$1b"]
+1d:"MetadataBoundary"
+1e:I[97367,["$5"],"$1d"]
 9:X
 9:C
 a:X
-b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","div",null,{"className":"grid max-w-[880px] gap-10 pt-2 md:pt-6","children":[["$","header",null,{"className":"grid gap-5","children":[["$","span",null,{"className":"grid size-14 place-items-center rounded-[14px] bg-surface text-fg","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":28,"height":28,"fill":"currentColor","viewBox":"0 0 256 256","aria-hidden":"true","children":[false,"$undefined",["$","path",null,{"d":"M216,48H40a8,8,0,0,0-8,8V208a16,16,0,0,0,16,16H88a16,16,0,0,0,16-16V160h48v16a16,16,0,0,0,16,16h40a16,16,0,0,0,16-16V56A8,8,0,0,0,216,48ZM88,208H48V128H88Zm0-96H48V64H88Zm64,32H104V64h48Zm56,32H168V128h40Zm0-64H168V64h40Z"}]]}]}],["$","div",null,{"className":"grid gap-3","children":[["$","h1",null,{"className":"display text-[clamp(2.2rem,4.5vw,3.2rem)]","children":"Proyectos"}],["$","p",null,{"className":"max-w-[60ch] text-lg text-fg-muted","children":"Progreso, plazos y actividad de cada proyecto, en lista o en Kanban."}]]}],["$","span",null,{"className":"flex flex-wrap gap-1.5","children":[["$","span",null,{"className":"inline-flex h-6 items-center gap-1.5 whitespace-nowrap rounded-full px-2.5 text-xs font-medium bg-surface-2 text-fg-muted","children":"En construcción"}],["$","span",null,{"className":"inline-flex h-6 items-center gap-1.5 whitespace-nowrap rounded-full px-2.5 text-xs font-medium bg-surface-2 text-fg-muted","children":"Etapa 4"}],null]}]]}],["$","p",null,{"className":"max-w-[62ch] border-l-2 border-signal pl-4 text-fg-muted","children":"Este módulo aún no se ha construido. Esta página explica lo que hará."}],["$","section",null,{"aria-labelledby":"what","className":"grid gap-4","children":[["$","h2",null,{"id":"what","className":"text-lg font-semibold","children":"Lo que podrás hacer"}],["$","ul",null,{"className":"grid gap-px overflow-hidden rounded-panel bg-line-soft sm:grid-cols-2","children":[["$","li","Vista de lista y Kanban",{"className":"bg-surface px-5 py-4","children":"Vista de lista y Kanban"}],["$","li","Progreso calculado a partir de las tareas",{"className":"bg-surface px-5 py-4","children":"Progreso calculado a partir de las tareas"}],["$","li","Plazos y responsables",{"className":"bg-surface px-5 py-4","children":"Plazos y responsables"}],["$","li","Historial de actividad",{"className":"bg-surface px-5 py-4","children":"Historial de actividad"}]]}]]}],null,["$","$L14",null,{"label":"Volver al inicio","icon":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"fill":"currentColor","viewBox":"0 0 256 256","aria-hidden":"true","children":[false,"$undefined",["$","path",null,{"d":"M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"}]]}]}]]}],[["$","script","script-0",{"src":"/ai-workspace/_next/static/chunks/31lpcwmm1s-mu.js","async":true}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":"$@18","v":null,"s":"$a"}}]]
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","div",null,{"className":"grid max-w-[880px] gap-10 pt-2 md:pt-6","children":[["$","header",null,{"className":"grid gap-5","children":[["$","span",null,{"className":"grid size-14 place-items-center rounded-[14px] bg-surface text-fg","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":28,"height":28,"fill":"currentColor","viewBox":"0 0 256 256","aria-hidden":"true","children":[false,"$undefined",["$","path",null,{"d":"M216,48H40a8,8,0,0,0-8,8V208a16,16,0,0,0,16,16H88a16,16,0,0,0,16-16V160h48v16a16,16,0,0,0,16,16h40a16,16,0,0,0,16-16V56A8,8,0,0,0,216,48ZM88,208H48V128H88Zm0-96H48V64H88Zm64,32H104V64h48Zm56,32H168V128h40Zm0-64H168V64h40Z"}]]}]}],["$","div",null,{"className":"grid gap-3","children":[["$","h1",null,{"className":"display text-[clamp(2.2rem,4.5vw,3.2rem)]","children":"Proyectos"}],["$","p",null,{"className":"max-w-[60ch] text-lg text-fg-muted","children":"Progreso, plazos y actividad de cada proyecto, en lista o en Kanban."}]]}],["$","span",null,{"className":"flex flex-wrap gap-1.5","children":[["$","span",null,{"className":"inline-flex h-6 items-center gap-1.5 whitespace-nowrap rounded-full px-2.5 text-xs font-medium bg-surface-2 text-fg-muted","children":"En construcción"}],["$","span",null,{"className":"inline-flex h-6 items-center gap-1.5 whitespace-nowrap rounded-full px-2.5 text-xs font-medium bg-surface-2 text-fg-muted","children":"Etapa 4"}],null]}]]}],["$","p",null,{"className":"max-w-[62ch] border-l-2 border-signal pl-4 text-fg-muted","children":"Este módulo aún no se ha construido. Esta página explica lo que hará."}],["$","section",null,{"aria-labelledby":"what","className":"grid gap-4","children":[["$","h2",null,{"id":"what","className":"text-lg font-semibold","children":"Lo que podrás hacer"}],["$","ul",null,{"className":"grid gap-px overflow-hidden rounded-panel bg-line-soft sm:grid-cols-2","children":[["$","li","Vista de lista y Kanban",{"className":"bg-surface px-5 py-4","children":"Vista de lista y Kanban"}],["$","li","Progreso calculado a partir de las tareas",{"className":"bg-surface px-5 py-4","children":"Progreso calculado a partir de las tareas"}],["$","li","Plazos y responsables",{"className":"bg-surface px-5 py-4","children":"Plazos y responsables"}],["$","li","Historial de actividad",{"className":"bg-surface px-5 py-4","children":"Historial de actividad"}]]}]]}],null,["$","$L16",null,{"label":"Volver al inicio","icon":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":16,"height":16,"fill":"currentColor","viewBox":"0 0 256 256","aria-hidden":"true","children":[false,"$undefined",["$","path",null,{"d":"M224,128a8,8,0,0,1-8,8H59.31l58.35,58.34a8,8,0,0,1-11.32,11.32l-72-72a8,8,0,0,1,0-11.32l72-72a8,8,0,0,1,11.32,11.32L59.31,120H216A8,8,0,0,1,224,128Z"}]]}]}]]}],[["$","script","script-0",{"src":"/ai-workspace/_next/static/chunks/35qgi487wg5ew.js","async":true}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":"$@1a","v":null,"s":"$a"}}]]
 3:[["children",{"s":{"n":"module","t":"d","k":"projects","s":["settings"]},"h":65600,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
 2:[["children",{"s":"app","h":131104,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"es","s":[]},"h":196720,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#131a2a"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Proyectos · AI Workspace"}],["$","meta","1",{"name":"description","content":"Documentos, hojas de cálculo, tareas, calendario, archivos y reuniones en un solo lugar, con una asistente de IA que usa las herramientas y muestra cada paso."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"alternate","hrefLang":"pt-BR","href":"/pt-BR"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","5",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","6",{"rel":"alternate","hrefLang":"fr","href":"/fr"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$a"}},"a":"$@1e","u":"$@1f","b":"C3hIAbYL-TYd0cxpFTS4S"}
-17:null
-1f:true
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#131a2a"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Proyectos · AI Workspace"}],["$","meta","1",{"name":"description","content":"Documentos, hojas de cálculo, tareas, calendario, archivos y reuniones en un solo lugar, con una asistente de IA que usa las herramientas y muestra cada paso."}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","link","3",{"rel":"alternate","hrefLang":"pt-BR","href":"/pt-BR"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","5",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","6",{"rel":"alternate","hrefLang":"fr","href":"/fr"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$a"}},"a":"$@20","u":"$@21","b":"dVg0j3GFd-36FtFn3d44V"}
+19:null
+21:true
 a:300
 a:C
-1e:0
+20:0
 8:"$undefined"
-1d:"$undefined"
-18:"$undefined"
+1f:"$undefined"
+1a:"$undefined"

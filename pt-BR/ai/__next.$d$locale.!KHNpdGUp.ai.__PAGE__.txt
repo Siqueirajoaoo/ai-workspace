@@ -2,12 +2,12 @@
 5:"/ai-workspace/_next/static/chunks/3qfy96eoyh-ek.js"
 6:I[39756,["$5"],"default"]
 7:I[37457,["$5"],"default"]
-c:"/ai-workspace/_next/static/chunks/3wlthmpltod24.js"
+c:"/ai-workspace/_next/static/chunks/12o8jzj1sgpwh.js"
 d:"/ai-workspace/_next/static/chunks/3inysa9mt77ex.js"
 e:"/ai-workspace/_next/static/chunks/271szmz5-rwzl.js"
-f:"/ai-workspace/_next/static/chunks/2-dy7b2z9h39g.js"
-10:"/ai-workspace/_next/static/chunks/2f49r035st-8y.js"
-11:"/ai-workspace/_next/static/chunks/0zmr33l_cz135.js"
+f:"/ai-workspace/_next/static/chunks/1m5tnw0tr4xav.js"
+10:"/ai-workspace/_next/static/chunks/0x9r9_-qa18uj.js"
+11:"/ai-workspace/_next/static/chunks/00jot-h3hurj_.js"
 12:I[22016,["$c","$d","$e","$f","$10","$11"],""]
 1b:"ViewportBoundary"
 1c:I[97367,["$5"],"$1b"]
@@ -21,7 +21,7 @@ b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[[["$"
 3:[["children",{"s":"ai","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
 2:[["children",{"s":"(site)","h":32,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"pt-BR","s":[]},"h":65648,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#131a2a"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Inteligência artificial · AI Workspace"}],["$","meta","1",{"name":"description","content":"Como a assistente planeja, usa as ferramentas, pede confirmação e guarda memória."}],["$","link","2",{"rel":"alternate","hrefLang":"pt-BR","href":"/pt-BR"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"/fr"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$a"}},"a":"$@21","u":"$@22","b":"C3hIAbYL-TYd0cxpFTS4S"}
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#131a2a"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Inteligência artificial · AI Workspace"}],["$","meta","1",{"name":"description","content":"Como a assistente planeja, usa as ferramentas, pede confirmação e guarda memória."}],["$","link","2",{"rel":"alternate","hrefLang":"pt-BR","href":"/pt-BR"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"/fr"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$a"}},"a":"$@21","u":"$@22","b":"dVg0j3GFd-36FtFn3d44V"}
 26:I[97367,["$5"],"OutletBoundary"]
 13:["$","li","Mostra o resultado",{"className":"grid content-start gap-1.5 border-t border-line pt-4","children":[["$","span",null,{"className":"tnum text-sm text-signal-ink","children":"7"}],["$","span",null,{"className":"font-semibold","children":"Mostra o resultado"}],["$","span",null,{"className":"text-sm text-fg-muted","children":"Com links para cada coisa criada ou alterada."}]]}]
 14:["$","li","Avisa o que faltou",{"className":"grid content-start gap-1.5 border-t border-line pt-4","children":[["$","span",null,{"className":"tnum text-sm text-signal-ink","children":"8"}],["$","span",null,{"className":"font-semibold","children":"Avisa o que faltou"}],["$","span",null,{"className":"text-sm text-fg-muted","children":"Se algo não deu certo, diz o quê e por quê."}]]}]
