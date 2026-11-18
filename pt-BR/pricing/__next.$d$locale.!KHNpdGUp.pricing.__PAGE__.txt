@@ -5,9 +5,9 @@
 c:"/ai-workspace/_next/static/chunks/3jn7s7cwujkx5.js"
 d:"/ai-workspace/_next/static/chunks/3inysa9mt77ex.js"
 e:"/ai-workspace/_next/static/chunks/271szmz5-rwzl.js"
-f:"/ai-workspace/_next/static/chunks/3401rjhvxninh.js"
+f:"/ai-workspace/_next/static/chunks/2luhqv79cwsij.js"
 10:"/ai-workspace/_next/static/chunks/2uvc-tu6ukgq6.js"
-11:"/ai-workspace/_next/static/chunks/3essredl_3xx-.js"
+11:"/ai-workspace/_next/static/chunks/08iprwlqi5e02.js"
 12:I[22016,["$c","$d","$e","$f","$10","$11"],""]
 1d:"ViewportBoundary"
 1e:I[97367,["$5"],"$1d"]
@@ -21,7 +21,7 @@ b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[[["$"
 3:[["children",{"s":"pricing","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
 2:[["children",{"s":"(site)","h":32,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"pt-BR","s":[]},"h":65648,"c":"$Q2"}]]
-0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#131a2a"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Planos · AI Workspace"}],["$","meta","1",{"name":"description","content":"Planos Gratuito, Pro e Business. Valores provisórios; nenhuma cobrança nesta versão."}],["$","link","2",{"rel":"alternate","hrefLang":"pt-BR","href":"/pt-BR"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"/fr"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@22","v":null,"s":"$a"}},"a":"$@23","u":"$@24","b":"RtbM0_jbKjg4N5VogpDER"}
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#131a2a"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Planos · AI Workspace"}],["$","meta","1",{"name":"description","content":"Planos Gratuito, Pro e Business. Valores provisórios; nenhuma cobrança nesta versão."}],["$","link","2",{"rel":"alternate","hrefLang":"pt-BR","href":"/pt-BR"}],["$","link","3",{"rel":"alternate","hrefLang":"en","href":"/en"}],["$","link","4",{"rel":"alternate","hrefLang":"es","href":"/es"}],["$","link","5",{"rel":"alternate","hrefLang":"fr","href":"/fr"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@22","v":null,"s":"$a"}},"a":"$@23","u":"$@24","b":"MH-CdH_k1_41-MWwJPklM"}
 31:I[97367,["$5"],"OutletBoundary"]
 13:["$","span",null,{"className":"inline-flex h-6 items-center gap-1.5 whitespace-nowrap rounded-full px-2.5 text-xs font-medium bg-signal-soft text-signal-ink","children":"Mais escolhido"}]
 14:["$","p",null,{"className":"text-fg-muted","children":"Para quem trabalha sozinho e quer a IA no dia inteiro."}]
