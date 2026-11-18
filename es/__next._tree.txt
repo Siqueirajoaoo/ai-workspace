@@ -1,6 +1,6 @@
-:HL["/ai-workspace/_next/static/chunks/3l_7e-w4wrsbv.css","style"]
+:HL["/ai-workspace/_next/static/chunks/2kw55teteokc7.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":128}]]
 2:[["children",{"s":"(site)","h":32,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"es","s":[]},"h":65648,"c":"$Q2"}]]
-0:{"b":"dVg0j3GFd-36FtFn3d44V","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"RtbM0_jbKjg4N5VogpDER","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
